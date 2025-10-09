@@ -6,16 +6,16 @@
 <h2>⚙️ What I Build</h2>
 
 - <b>Chatbots for Small Businesses</b>  
-  - [Beauty Shop Support Chatbot (Instagram)](https://github.com/vinci254/salon-chatbot-starter) — auto booking, FAQs, and support.
-  - [Clinic Appointment Bot](https://github.com/vinci254/clinic-appointments) — collects basic info + sends email reports.
+  - [Beauty Shop Support Chatbot (Instagram)](https://github.com/Astrovisions254/salon-chatbot-starter) — auto booking, FAQs, and support.
+  - [Clinic Appointment Bot](https://github.com/Astrovisions254/clinic-appointments) — collects basic info + sends email reports.
 
 - <b>Social Media Management Automation</b>  
-  - [Instagram Feed Automation](https://github.com/vinci254/mpesa-automation) — Make.com → webhook → Google Sheets.
-  - [Lead Follow-up Funnel](https://github.com/vinci254/lead-funnel) — capture leads via form → email sequence.
+  - [Instagram Feed Automation](https://github.com/Astrovisions254/mpesa-automation) — Make.com → webhook → Google Sheets.
+  - [Lead Follow-up Funnel](https://github.com/Astrovisions254/lead-funnel) — capture leads via form → email sequence.
 
 - <b>Web Projects</b>  
-  - [Appointment booking platform for Sugaring Business](https://github.com/vinci254/landing-salon)
-  - [Cinema | Local movies streaming](https://github.com/vinci254/portfolio-starter)
+  - [Appointment booking platform for Sugaring Business](https://github.com/Astrovisions254/landing-salon)
+  - [Cinema | Local movies streaming](https://github.com/Astrovisions254/portfolio-starter)
     
 <h2>🔧 Services & Packages</h2>
 
@@ -34,9 +34,9 @@
 
 <h2>📂 Current Projects</h2>
 
-- [Beauty Shop Support Chatbot (Instagram) Starter](https://github.com/vinci254/salon-chatbot-starter) — booking + stylist selection + reminders  
-- [Instagram Content Posting Automation](https://github.com/vinci254/clinic-appointments) — 1 week free content  
-- [Lead Follow-up Funnel](https://github.com/vinci254/lead-funnel) — auto-logging payments, inflows and automatic monthly summaries  
+- [Beauty Shop Support Chatbot (Instagram) Starter](https://github.com/Astrovisions254/salon-chatbot-starter) — booking + stylist selection + reminders  
+- [Instagram Content Posting Automation](https://github.com/Astrovisions254/clinic-appointments) — 1 week free content  
+- [Lead Follow-up Funnel](https://github.com/Astrovisions254/lead-funnel) — auto-logging payments, inflows and automatic monthly summaries  
 
 <h2>💡 What I’m Exploring</h2>
 
@@ -46,15 +46,15 @@
 
 <h2>🤳 Connect with me:</h2>
 
-[<img align="left" alt="Vinci | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Vinci | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Vinci | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="Vinci | WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
+[<img align="left" alt="Astrovisions | X (Twitter)" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][x]
+[<img align="left" alt="Astrovisions | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Astrovisions | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="Astrovisions | WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
 
 <br/>
 
-[twitter]: https://twitter.com/astrovisionske
-[instagram]: https://instagram.com/astrovisionske
-[linkedin]: https://linkedin.com/in/astrovisions
-[github]: https://github.com/astrovisions
+[x]: https://x.com/astrovisions  
+[instagram]: https://instagram.com/astrovisionske  
+[github]: https://github.com/astrovisions  
 [whatsapp]: https://wa.me/254702373204
+
