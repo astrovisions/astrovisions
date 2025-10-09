@@ -9,7 +9,7 @@
   - [Beauty Shop Support Chatbot (Instagram)](https://github.com/vinci254/salon-chatbot-starter) — auto booking, FAQs, and support.
   - [Clinic Appointment Bot](https://github.com/vinci254/clinic-appointments) — collects basic info + sends email reports.
 
-- <b>Automation Projects</b>  
+- <b>Social Media Management Automation</b>  
   - [Instagram Feed Automation](https://github.com/vinci254/mpesa-automation) — Make.com → webhook → Google Sheets.
   - [Lead Follow-up Funnel](https://github.com/vinci254/lead-funnel) — capture leads via form → email sequence.
 
