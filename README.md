@@ -40,9 +40,9 @@
 
 <h2>💡 What I’m Exploring</h2>
 
-- Low-code business automation with <b>Make.com</b> & <b>Google Apps Script</b>  
+- Low-code business automation
 - Domain-specific conversational AI for African SMEs  
-- Scalable templates for WhatsApp Business APIs  
+- Scalable templates for Business Automation  
 
 <h2>🤳 Connect with me:</h2>
 
