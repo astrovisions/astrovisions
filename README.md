@@ -19,7 +19,7 @@
     
 <h2>🔧 Services & Packages</h2>
 
-- <b>Starter (KSh 5,000)</b>: Landing page + WhatsApp chatbot prototype  
+- <b>Starter (KSh 5,000)</b>: Landing page + chatbot prototype  
 - <b>Growth (KSh 12,000)</b>: Booking chatbot + landing + 1 week support  
 - <b>Business (KSh 25,000)</b>: Full setup + M-Pesa automation + 1 month content pack  
 
