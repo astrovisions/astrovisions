@@ -34,11 +34,11 @@
 3. I deploy and train staff (10–30 mins)  
 4. Optional maintenance or automation retainer  
 
-<h2>📂 Current Projects</h2>
+<h2>📂 Current Offers </h2>
 
-- [Beauty Shop Support Chatbot (Instagram) Starter](https://github.com/Astrovisions254/salon-chatbot-starter) — booking + stylist selection + reminders  
-- [Instagram Content Posting Automation](https://github.com/Astrovisions254/clinic-appointments) — 1 week free content  
-- [Lead Follow-up Funnel](https://github.com/Astrovisions254/lead-funnel) — auto-logging payments, inflows and automatic monthly summaries  
+- [Online Shop Support Chatbot (Instagram) Starter] — booking + stylist selection + reminders  
+- [Instagram Content Posting Automation] — 1 week free content  
+- [Lead Follow-up Funnel] — auto-logging payments, inflows and automatic monthly summaries  
 
 <h2>💡 What I’m Exploring</h2>
 
