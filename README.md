@@ -6,16 +6,18 @@
 <h2>⚙️ What I Build</h2>
 
 - <b>Chatbots for Small Businesses</b>  
-  - [Beauty Shop Support Chatbot (Instagram)](https://github.com/Astrovisions254/salon-chatbot-starter) — auto booking, FAQs, and support.
-  - [Clinic Appointment Bot](https://github.com/Astrovisions254/clinic-appointments) — collects basic info + sends email reports.
+  - [Beauty Shop Support Chatbot (Instagram)] — auto booking, FAQs, and support.
+  - [Clinic Appointment Bot] — collects basic info + sends email reports.
 
 - <b>Social Media Management Automation</b>  
-  - [Instagram Feed Automation](https://github.com/Astrovisions254/mpesa-automation) — Make.com → webhook → Google Sheets.
-  - [Lead Follow-up Funnel](https://github.com/Astrovisions254/lead-funnel) — capture leads via form → email sequence.
+  - [Instagram Feed Automation] — Make.com → webhook → Google Sheets.
+  - [Lead Follow-up Funnel] — capture leads via form → email sequence.
 
 - <b>Web Projects</b>  
-  - [Appointment booking platform for Sugaring Business](https://github.com/Astrovisions254/landing-salon)
-  - [Cinema | Local movies streaming](https://github.com/Astrovisions254/portfolio-starter)
+  - [Appointment booking platform for Sugaring Business]
+  - [Companion Chatbot]
+  - [FAQ Web Chat Widget]
+  - [Cinema | Local movies streaming]
     
 <h2>🔧 Services & Packages</h2>
 
